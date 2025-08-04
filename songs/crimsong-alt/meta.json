@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"HARD"
+	],
+	"icon": "gbi/selattack",
+	"parsedColor": -4703172,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "crimsong",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 138,
+	"name": "crimsong-alt"
+}

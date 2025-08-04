@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="stage" folder="stages/gbi/" startCamPosY="600" startCamPosX="1000">
+	<girlfriend/>
+
+	<sprite name="selstageback"           scale="1"    x="-500" y="-450"   sprite="SelStage"       scroll="1" />
+	<dad x="-200"/>
+	<boyfriend x="600" y="230"/>
+</stage>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="heartsa3.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SDown0000" x="5" y="5" width="1142" height="1510" frameX="-38" frameY="-35" frameWidth="1180" frameHeight="1579"/>
+	<SubTexture name="SDown0001" x="5" y="5" width="1142" height="1510" frameX="-38" frameY="-35" frameWidth="1180" frameHeight="1579"/>
+	<SubTexture name="SDown0002" x="1152" y="5" width="1157" height="1545" frameX="-23" frameY="-18" frameWidth="1180" frameHeight="1579"/>
+	<SubTexture name="SDown0003" x="1152" y="5" width="1157" height="1545" frameX="-23" frameY="-18" frameWidth="1180" frameHeight="1579"/>
+	<SubTexture name="SDown0004" x="2314" y="5" width="1180" height="1579"/>
+	<SubTexture name="SDown0005" x="2314" y="5" width="1180" height="1579"/>
+	<SubTexture name="SDown0006" x="2314" y="5" width="1180" height="1579"/>
+	<SubTexture name="SDown0007" x="2314" y="5" width="1180" height="1579"/>
+	<SubTexture name="SDown0008" x="2314" y="5" width="1180" height="1579"/>
+	<SubTexture name="SDown0009" x="2314" y="5" width="1180" height="1579"/>
+	<SubTexture name="SDown0010" x="2314" y="5" width="1180" height="1579"/>
+	<SubTexture name="SDown0011" x="2314" y="5" width="1180" height="1579"/>
+	<SubTexture name="SDown0012" x="2314" y="5" width="1180" height="1579"/>
+	<SubTexture name="SDown0013" x="2314" y="5" width="1180" height="1579"/>
+	<SubTexture name="SDown0014" x="2314" y="5" width="1180" height="1579"/>
+	<SubTexture name="SLeft0000" x="3499" y="5" width="1176" height="1510" frameX="-4" frameY="-26" frameWidth="1180" frameHeight="1552"/>
+	<SubTexture name="SLeft0001" x="3499" y="5" width="1176" height="1510" frameX="-4" frameY="-26" frameWidth="1180" frameHeight="1552"/>
+	<SubTexture name="SLeft0002" x="4680" y="5" width="1176" height="1530" frameX="-4" frameY="-13" frameWidth="1180" frameHeight="1552"/>
+	<SubTexture name="SLeft0003" x="4680" y="5" width="1176" height="1530" frameX="-4" frameY="-13" frameWidth="1180" frameHeight="1552"/>
+	<SubTexture name="SLeft0004" x="5861" y="5" width="1180" height="1552"/>
+	<SubTexture name="SLeft0005" x="5861" y="5" width="1180" height="1552"/>
+	<SubTexture name="SLeft0006" x="5861" y="5" width="1180" height="1552"/>
+	<SubTexture name="SLeft0007" x="5861" y="5" width="1180" height="1552"/>
+	<SubTexture name="SLeft0008" x="5861" y="5" width="1180" height="1552"/>
+	<SubTexture name="SLeft0009" x="5861" y="5" width="1180" height="1552"/>
+	<SubTexture name="SLeft0010" x="5861" y="5" width="1180" height="1552"/>
+	<SubTexture name="SLeft0011" x="5861" y="5" width="1180" height="1552"/>
+	<SubTexture name="SLeft0012" x="5861" y="5" width="1180" height="1552"/>
+	<SubTexture name="SLeft0013" x="5861" y="5" width="1180" height="1552"/>
+	<SubTexture name="SLeft0014" x="5861" y="5" width="1180" height="1552"/>
+	<SubTexture name="SRight0000" x="5" y="1589" width="1221" height="1510" frameX="0" frameY="-15" frameWidth="1221" frameHeight="1544"/>
+	<SubTexture name="SRight0001" x="1231" y="1589" width="1221" height="1526" frameX="0" frameY="-8" frameWidth="1221" frameHeight="1544"/>
+	<SubTexture name="SRight0002" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0003" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0004" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0005" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0006" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0007" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0008" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0009" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0010" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0011" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0012" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0013" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0014" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0015" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0016" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0017" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0018" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SRight0019" x="2457" y="1589" width="1221" height="1544"/>
+	<SubTexture name="SUp0000" x="3683" y="1589" width="1246" height="1510" frameX="0" frameY="-25" frameWidth="1246" frameHeight="1560"/>
+	<SubTexture name="SUp0001" x="4934" y="1589" width="1246" height="1533" frameX="0" frameY="-14" frameWidth="1246" frameHeight="1560"/>
+	<SubTexture name="SUp0002" x="6185" y="1589" width="1246" height="1560"/>
+	<SubTexture name="SUp0003" x="6185" y="1589" width="1246" height="1560"/>
+	<SubTexture name="SUp0004" x="6185" y="1589" width="1246" height="1560"/>
+	<SubTexture name="SUp0005" x="6185" y="1589" width="1246" height="1560"/>
+	<SubTexture name="SUp0006" x="6185" y="1589" width="1246" height="1560"/>
+	<SubTexture name="SUp0007" x="6185" y="1589" width="1246" height="1560"/>
+	<SubTexture name="SUp0008" x="6185" y="1589" width="1246" height="1560"/>
+	<SubTexture name="SUp0009" x="6185" y="1589" width="1246" height="1560"/>
+	<SubTexture name="SUp0010" x="6185" y="1589" width="1246" height="1560"/>
+	<SubTexture name="SUp0011" x="6185" y="1589" width="1246" height="1560"/>
+	<SubTexture name="SUp0012" x="6185" y="1589" width="1246" height="1560"/>
+	<SubTexture name="SUp0013" x="6185" y="1589" width="1246" height="1560"/>
+	<SubTexture name="SUp0014" x="6185" y="1589" width="1246" height="1560"/>
+	<SubTexture name="Saidle0000" x="5" y="3154" width="1174" height="1596" frameX="-71" frameY="-24" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0001" x="5" y="3154" width="1174" height="1596" frameX="-71" frameY="-24" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0002" x="1184" y="3154" width="1218" height="1618" frameX="-47" frameY="-16" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0003" x="2407" y="3154" width="1218" height="1618" frameX="-47" frameY="-16" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0004" x="3630" y="3154" width="1266" height="1644" frameX="-23" frameY="-7" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0005" x="4901" y="3154" width="1266" height="1644" frameX="-23" frameY="-7" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0006" x="6172" y="3154" width="1312" height="1667"/>
+	<SubTexture name="Saidle0007" x="6172" y="3154" width="1312" height="1667"/>
+	<SubTexture name="Saidle0008" x="5" y="4826" width="1272" height="1648" frameX="-20" frameY="-5" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0009" x="5" y="4826" width="1272" height="1648" frameX="-20" frameY="-6" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0010" x="1282" y="4826" width="1232" height="1626" frameX="-40" frameY="-13" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0011" x="1282" y="4826" width="1232" height="1626" frameX="-40" frameY="-13" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0012" x="2519" y="4826" width="1190" height="1604" frameX="-61" frameY="-21" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0013" x="5" y="3154" width="1174" height="1596" frameX="-71" frameY="-24" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0014" x="5" y="3154" width="1174" height="1596" frameX="-71" frameY="-24" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0015" x="5" y="3154" width="1174" height="1596" frameX="-71" frameY="-24" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0016" x="5" y="3154" width="1174" height="1596" frameX="-71" frameY="-24" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0017" x="5" y="3154" width="1174" height="1596" frameX="-71" frameY="-24" frameWidth="1312" frameHeight="1667"/>
+	<SubTexture name="Saidle0018" x="5" y="3154" width="1174" height="1596" frameX="-71" frameY="-24" frameWidth="1312" frameHeight="1667"/>
+</TextureAtlas>

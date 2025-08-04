@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="breath sar1.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tired DOWN0000" x="5" y="5" width="662" height="939"/>
+	<SubTexture name="Tired DOWN0001" x="5" y="5" width="662" height="939"/>
+	<SubTexture name="Tired DOWN0002" x="672" y="5" width="649" height="929" frameX="-6" frameY="-5" frameWidth="662" frameHeight="939"/>
+	<SubTexture name="Tired DOWN0003" x="672" y="5" width="649" height="929" frameX="-6" frameY="-5" frameWidth="662" frameHeight="939"/>
+	<SubTexture name="Tired DOWN0004" x="1326" y="5" width="635" height="920" frameX="-13" frameY="-9" frameWidth="662" frameHeight="939"/>
+	<SubTexture name="Tired DOWN0005" x="1326" y="5" width="635" height="920" frameX="-13" frameY="-9" frameWidth="662" frameHeight="939"/>
+	<SubTexture name="Tired DOWN0006" x="1326" y="5" width="635" height="920" frameX="-13" frameY="-9" frameWidth="662" frameHeight="939"/>
+	<SubTexture name="Tired DOWN0007" x="1326" y="5" width="635" height="920" frameX="-13" frameY="-9" frameWidth="662" frameHeight="939"/>
+	<SubTexture name="Tired DOWN0008" x="1326" y="5" width="635" height="920" frameX="-13" frameY="-9" frameWidth="662" frameHeight="939"/>
+	<SubTexture name="Tired DOWN0009" x="1326" y="5" width="635" height="920" frameX="-13" frameY="-9" frameWidth="662" frameHeight="939"/>
+	<SubTexture name="Tired DOWN0010" x="1326" y="5" width="635" height="920" frameX="-13" frameY="-9" frameWidth="662" frameHeight="939"/>
+	<SubTexture name="Tired DOWN0011" x="1326" y="5" width="635" height="920" frameX="-13" frameY="-9" frameWidth="662" frameHeight="939"/>
+	<SubTexture name="Tired DOWN0012" x="1326" y="5" width="635" height="920" frameX="-13" frameY="-9" frameWidth="662" frameHeight="939"/>
+	<SubTexture name="Tired Left0000" x="1966" y="5" width="677" height="952"/>
+	<SubTexture name="Tired Left0001" x="1966" y="5" width="677" height="952"/>
+	<SubTexture name="Tired Left0002" x="2648" y="5" width="657" height="935" frameX="-9" frameY="-9" frameWidth="677" frameHeight="952"/>
+	<SubTexture name="Tired Left0003" x="2648" y="5" width="657" height="935" frameX="-9" frameY="-9" frameWidth="677" frameHeight="952"/>
+	<SubTexture name="Tired Left0004" x="3310" y="5" width="635" height="920" frameX="-19" frameY="-15" frameWidth="677" frameHeight="952"/>
+	<SubTexture name="Tired Left0005" x="3310" y="5" width="635" height="920" frameX="-19" frameY="-15" frameWidth="677" frameHeight="952"/>
+	<SubTexture name="Tired Left0006" x="3310" y="5" width="635" height="920" frameX="-19" frameY="-15" frameWidth="677" frameHeight="952"/>
+	<SubTexture name="Tired Left0007" x="3310" y="5" width="635" height="920" frameX="-19" frameY="-15" frameWidth="677" frameHeight="952"/>
+	<SubTexture name="Tired Left0008" x="3310" y="5" width="635" height="920" frameX="-19" frameY="-15" frameWidth="677" frameHeight="952"/>
+	<SubTexture name="Tired Left0009" x="3310" y="5" width="635" height="920" frameX="-19" frameY="-15" frameWidth="677" frameHeight="952"/>
+	<SubTexture name="Tired Left0010" x="3310" y="5" width="635" height="920" frameX="-19" frameY="-15" frameWidth="677" frameHeight="952"/>
+	<SubTexture name="Tired Left0011" x="3310" y="5" width="635" height="920" frameX="-19" frameY="-15" frameWidth="677" frameHeight="952"/>
+	<SubTexture name="Tired Left0012" x="3310" y="5" width="635" height="920" frameX="-19" frameY="-15" frameWidth="677" frameHeight="952"/>
+	<SubTexture name="Tired Right0000" x="5" y="962" width="674" height="947"/>
+	<SubTexture name="Tired Right0001" x="5" y="962" width="674" height="947"/>
+	<SubTexture name="Tired Right0002" x="684" y="962" width="635" height="920" frameX="-19" frameY="-12" frameWidth="674" frameHeight="947"/>
+	<SubTexture name="Tired Right0003" x="684" y="962" width="635" height="920" frameX="-19" frameY="-12" frameWidth="674" frameHeight="947"/>
+	<SubTexture name="Tired Right0004" x="684" y="962" width="635" height="920" frameX="-19" frameY="-12" frameWidth="674" frameHeight="947"/>
+	<SubTexture name="Tired Right0005" x="684" y="962" width="635" height="920" frameX="-19" frameY="-12" frameWidth="674" frameHeight="947"/>
+	<SubTexture name="Tired Right0006" x="684" y="962" width="635" height="920" frameX="-19" frameY="-12" frameWidth="674" frameHeight="947"/>
+	<SubTexture name="Tired Right0007" x="684" y="962" width="635" height="920" frameX="-19" frameY="-12" frameWidth="674" frameHeight="947"/>
+	<SubTexture name="Tired Right0008" x="684" y="962" width="635" height="920" frameX="-19" frameY="-12" frameWidth="674" frameHeight="947"/>
+	<SubTexture name="Tired Right0009" x="684" y="962" width="635" height="920" frameX="-19" frameY="-12" frameWidth="674" frameHeight="947"/>
+	<SubTexture name="Tired Right0010" x="684" y="962" width="635" height="920" frameX="-19" frameY="-12" frameWidth="674" frameHeight="947"/>
+	<SubTexture name="Tired Right0011" x="684" y="962" width="635" height="920" frameX="-19" frameY="-12" frameWidth="674" frameHeight="947"/>
+	<SubTexture name="Tired Right0012" x="684" y="962" width="635" height="920" frameX="-19" frameY="-12" frameWidth="674" frameHeight="947"/>
+	<SubTexture name="Tired UP0000" x="1324" y="962" width="666" height="941"/>
+	<SubTexture name="Tired UP0001" x="1324" y="962" width="666" height="941"/>
+	<SubTexture name="Tired UP0002" x="1995" y="962" width="651" height="933" frameX="-6" frameY="-3" frameWidth="666" frameHeight="941"/>
+	<SubTexture name="Tired UP0003" x="1995" y="962" width="651" height="933" frameX="-6" frameY="-3" frameWidth="666" frameHeight="941"/>
+	<SubTexture name="Tired UP0004" x="2651" y="962" width="640" height="926" frameX="-14" frameY="-6" frameWidth="666" frameHeight="941"/>
+	<SubTexture name="Tired UP0005" x="2651" y="962" width="640" height="926" frameX="-14" frameY="-6" frameWidth="666" frameHeight="941"/>
+	<SubTexture name="Tired UP0006" x="2651" y="962" width="640" height="926" frameX="-14" frameY="-6" frameWidth="666" frameHeight="941"/>
+	<SubTexture name="Tired UP0007" x="2651" y="962" width="640" height="926" frameX="-14" frameY="-6" frameWidth="666" frameHeight="941"/>
+	<SubTexture name="Tired UP0008" x="2651" y="962" width="640" height="926" frameX="-14" frameY="-6" frameWidth="666" frameHeight="941"/>
+	<SubTexture name="Tired UP0009" x="2651" y="962" width="640" height="926" frameX="-14" frameY="-6" frameWidth="666" frameHeight="941"/>
+	<SubTexture name="Tired UP0010" x="2651" y="962" width="640" height="926" frameX="-14" frameY="-6" frameWidth="666" frameHeight="941"/>
+	<SubTexture name="Tired UP0011" x="2651" y="962" width="640" height="926" frameX="-14" frameY="-6" frameWidth="666" frameHeight="941"/>
+	<SubTexture name="Tired UP0012" x="2651" y="962" width="640" height="926" frameX="-14" frameY="-6" frameWidth="666" frameHeight="941"/>
+	<SubTexture name="Tired idle0000" x="3296" y="962" width="659" height="920" frameX="-36" frameY="-17" frameWidth="736" frameHeight="981"/>
+	<SubTexture name="Tired idle0001" x="3296" y="962" width="659" height="920" frameX="-36" frameY="-17" frameWidth="736" frameHeight="981"/>
+	<SubTexture name="Tired idle0002" x="5" y="1914" width="708" height="956" frameX="-11" frameY="-12" frameWidth="736" frameHeight="981"/>
+	<SubTexture name="Tired idle0003" x="5" y="1914" width="708" height="956" frameX="-11" frameY="-12" frameWidth="736" frameHeight="981"/>
+	<SubTexture name="Tired idle0004" x="718" y="1914" width="727" height="973" frameX="-2" frameY="-6" frameWidth="736" frameHeight="981"/>
+	<SubTexture name="Tired idle0005" x="718" y="1914" width="727" height="973" frameX="-2" frameY="-6" frameWidth="736" frameHeight="981"/>
+	<SubTexture name="Tired idle0006" x="1450" y="1914" width="736" height="981"/>
+	<SubTexture name="Tired idle0007" x="1450" y="1914" width="736" height="981"/>
+	<SubTexture name="Tired idle0008" x="2191" y="1914" width="711" height="961" frameX="-12" frameY="-6" frameWidth="736" frameHeight="981"/>
+	<SubTexture name="Tired idle0009" x="2191" y="1914" width="711" height="961" frameX="-12" frameY="-6" frameWidth="736" frameHeight="981"/>
+	<SubTexture name="Tired idle0010" x="2907" y="1914" width="686" height="941" frameX="-24" frameY="-11" frameWidth="736" frameHeight="981"/>
+	<SubTexture name="Tired idle0011" x="2907" y="1914" width="686" height="941" frameX="-24" frameY="-11" frameWidth="736" frameHeight="981"/>
+	<SubTexture name="Tired idle0012" x="5" y="2900" width="676" height="920" frameX="-31" frameY="-17" frameWidth="736" frameHeight="981"/>
+</TextureAtlas>

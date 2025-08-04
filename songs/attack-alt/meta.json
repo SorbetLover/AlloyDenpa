@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "gbi/selattack",
+	"difficulties": [
+		"HARD"
+	],
+	"parsedColor": -4703172,
+	"name": "attack-alt",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "attack",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 140
+}

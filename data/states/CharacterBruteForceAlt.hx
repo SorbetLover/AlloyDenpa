@@ -11,7 +11,7 @@ import flixel.group.FlxSpriteGroup;
 // var window:UIWindow;
 var txtinput:UITextBox;
 var btG:FlxSpriteGroup;
-var foldersToCheck:Array = ["babs", "gif", "gif2", "playabgf"];
+var foldersToCheck:Array = [];
 function create(){
 	FlxG.sound.music.destroy();
 
@@ -20,8 +20,10 @@ var cnt:Int = -1;
 var lstcnt:Inst = -1;
 var col:Int = 0;
 // var files:Array = [];
-var guh:Array = [];
+// var guh:Array = ["gb", "gbi"];
 function postCreate(){
+		guh = Paths.getFolderDirectories("data/characters");
+
 	// for(e in FileSystem.readDirectory("mods/alloyshit/data/characters")){
 	//     if(FileSystem.isDirectory("mods/alloyshit/data/characters/" + e)){
 	//         trace(Path.withoutExtension(e));
@@ -113,6 +115,8 @@ function update(){
 		FlxG.switchState(new UIState(true, "CharacterBruteForceAlt"));
 		if (FlxG.keys.justPressed.P)
 		FlxG.switchState(new UIState(true, "CharacterBruteForce"));
-
+	if(FlxG.keys.justPressed.ESC){
+		FlxG.switchState(new MainMenuState());
+	}
         
 }

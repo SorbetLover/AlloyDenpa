@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="gi/angergirl" icon="gbi/selattack" color="#7E1200">
+	<anim name="idle" anim="selidle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="madup0" x="-28" y="-35" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="seldown0" x="-70" y="-45" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="selleft0" x="-30" y="-35" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="selright0" x="-10" y="-5" fps="24" loop="false"/>
+</character>
