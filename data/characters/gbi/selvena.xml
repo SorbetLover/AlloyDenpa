@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="gi/bitchgirl_sheet" camx="100" camy="100" icon="gbi/sel" color="#92386B">
+	<anim name="idle" anim="selidle"/>
+	<anim name="singDOWN" anim="seldown" x="-90" y="-53"/>
+	<anim name="singRIGHT" anim="selright" x="-32" y="-28"/>
+	<anim name="singLEFT" anim="selleft" x="-28" y="-58"/>
+	<anim name="singUP" anim="selup" x="46" y="-46"/>
+	<anim name="selfukyu" anim="selfukyu" x="-95" y="-71"/>
+</character>

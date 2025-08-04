@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="gb/sarvin_dark" icon="gb/icon-sarvin-dark" color="#F883FF">
+	<anim name="idle" anim="SarvinIdle"/>
+	<anim name="singDOWN" anim="SarvinDown" x="146" y="-103"/>
+	<anim name="singRIGHT" anim="SarvinRight" x="39" y="-23"/>
+	<anim name="singLEFT" anim="SarvinLeft" x="149" y="-37"/>
+	<anim name="singUP" anim="SarvinUp" x="-21" y="49"/>
+</character>

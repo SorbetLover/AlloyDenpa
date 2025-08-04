@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="stage" folder="stages/gbi/" startCamPosY="600" startCamPosX="1000">
+	<girlfriend/>
+
+	<sprite name="devilstagefront"           scale="1"    x="-500" y="-450"   sprite="devilstagefront"       scroll="1" />
+	<sprite name="circle"          scale="1"    x="-600" y="-450"   sprite="circle"       scroll="1" />
+	<sprite name="devilstageback"          scale="1"    x="-500" y="-450"   sprite="devilstageback"       scroll="1" />
+	<dad x="-400" y="-400" scale="0.8"/>
+	<boyfriend x="700" y="100"/>
+</stage>

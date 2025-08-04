@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="gb/selene" icon="gb/icon-selene">
+	<anim name="idle" anim="SeleneIdle"/>
+	<anim name="singDOWN" anim="SeleneDown" x="25" y="-40"/>
+	<anim name="singRIGHT" anim="SeleneRight" x="5" y="18"/>
+	<anim name="singLEFT" anim="SeleneLeft"/>
+	<anim name="singUP" anim="SeleneUp" x="97" y="60"/>
+	<anim name="SeleneHey" anim="SeleneHey" x="-3" y="-16"/>
+</character>

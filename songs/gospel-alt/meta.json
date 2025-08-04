@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 141,
+	"difficulties": [
+		"HARD", "alt"
+	],
+	"needsVoices": true,
+	"parsedColor": -10223616,
+	"displayName": "gospel-alt",
+	"icon": "gbi/devil",
+	"name": "gospel-alt",
+	"color": "#640000",
+	"customValues": {}
+}

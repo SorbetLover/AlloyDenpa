@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<<<<<<< HEAD
+<character sprite="gi/sarvantes-demon" icon="gbi/devil" color="#C81948">
+=======
+<character sprite="gi/sarvantes-demon" icon="gbi/devil" color="#C81948" camy="100" camx="100">
+>>>>>>> 8572ea63d3091c03a3863d2296c72ad0f3802092
+	<anim name="idle" anim="Devilidle"/>
+	<anim name="singDOWN" anim="DevilDOWN" x="-95" y="-121"/>
+	<anim name="singRIGHT" anim="DevilRight" x="-147" y="-141"/>
+	<anim name="singLEFT" anim="DevilLeft" x="5" y="-162"/>
+	<anim name="singUP" anim="DevilUP" x="-88" y="-46"/>
+</character>

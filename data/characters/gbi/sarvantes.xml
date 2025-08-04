@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="gi/sarvantes" icon="gbi/sarv">
+	<anim name="Sar idle" anim="Sar idole"/>
+	<anim name="singDOWN" anim="Sar Down" x="88" y="46"/>
+	<anim name="singRIGHT" anim="Sar right" x="-6"/>
+	<anim name="singLEFT" anim="Sar Left" x="18" y="-2"/>
+	<anim name="singUP" anim="Sar UP" x="1" y="-26"/>
+	<anim name="Sar Hey" anim="Sar Hey" x="57" y="33"/>
+</character>

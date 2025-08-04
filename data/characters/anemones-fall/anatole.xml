@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="anemones-fall/anatole_sheet" color="#A077B6">
+	<anim name="idle" anim="anatole idle"/>
+	<anim name="singDOWN" anim="anatole down" x="272" y="-70"/>
+	<anim name="singRIGHT" anim="anatole right" x="280" y="-86"/>
+	<anim name="singLEFT" anim="anatole left" x="40" y="-202"/>
+	<anim name="singUP" anim="anatole up" x="154" y="-52"/>
+</character>

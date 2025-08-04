@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 141,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -6010551,
+	"displayName": "vespers",
+	"icon": "Icon",
+	"name": "vespers",
+	"color": "#A44949",
+	"customValues": {}
+}

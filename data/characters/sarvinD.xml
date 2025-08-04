@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="gb/sarvin_demon" icon="gb/icon-sarvin-demon" color="#5F0B0B">
+	<anim name="idle" anim="SarvinIdle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="SarvinLeft0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="SarvinDown0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="SarvinUp0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="SarvinRight0" x="0" y="0" fps="24" loop="false"/>
+</character>

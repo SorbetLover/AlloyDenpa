@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "gb/icon-sarvin-dark",
+	"difficulties": [
+		"hard"
+	],
+	"customValues": {},
+	"color": -22557,
+	"name": "devotion",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "devotion",
+	"beatsPerMeasure": 4,
+	"bpm": 120
+}

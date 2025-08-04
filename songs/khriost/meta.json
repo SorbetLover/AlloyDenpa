@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "anemones-fall/anatole",
+	"difficulties": [
+		"hard"
+	],
+	"customValues": {},
+	"color": -3161857,
+	"name": "khriost",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "khriost",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 155
+}

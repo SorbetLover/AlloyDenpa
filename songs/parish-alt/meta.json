@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "gbi/sarv",
+	"difficulties": [
+		"hard"
+	],
+	"customValues": {},
+	"color": -22557,
+	"name": "parish-alt",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "parish",
+	"beatsPerMeasure": 4,
+	"bpm": 111
+}

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character icon="gb/icon-ruvina" color="#9C9C9C">
+	<anim name="idle" anim="RuvinaIdle"/>
+	<anim name="singDOWN" anim="RuvinaDown" x="51" y="-71"/>
+	<anim name="singRIGHT" anim="RuvinaRight" x="36" y="-4"/>
+	<anim name="singLEFT" anim="RuvinaLeft" x="40" y="-20"/>
+	<anim name="singUP" anim="RuvinaUp" x="50" y="72"/>
+</character>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bitchgirl_sheet.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="seldown0000" x="5" y="5" width="678" height="875"/>
+	<SubTexture name="seldown0001" x="5" y="5" width="678" height="875"/>
+	<SubTexture name="seldown0002" x="688" y="5" width="606" height="851" frameX="-36" frameY="-16" frameWidth="678" frameHeight="875"/>
+	<SubTexture name="seldown0003" x="688" y="5" width="606" height="851" frameX="-36" frameY="-16" frameWidth="678" frameHeight="875"/>
+	<SubTexture name="seldown0004" x="1299" y="5" width="535" height="826" frameX="-71" frameY="-31" frameWidth="678" frameHeight="875"/>
+	<SubTexture name="seldown0005" x="1299" y="5" width="535" height="826" frameX="-71" frameY="-31" frameWidth="678" frameHeight="875"/>
+	<SubTexture name="seldown0006" x="1299" y="5" width="535" height="826" frameX="-71" frameY="-31" frameWidth="678" frameHeight="875"/>
+	<SubTexture name="seldown0007" x="1299" y="5" width="535" height="826" frameX="-71" frameY="-31" frameWidth="678" frameHeight="875"/>
+	<SubTexture name="seldown0008" x="1299" y="5" width="535" height="826" frameX="-71" frameY="-31" frameWidth="678" frameHeight="875"/>
+	<SubTexture name="seldown0009" x="1299" y="5" width="535" height="826" frameX="-71" frameY="-31" frameWidth="678" frameHeight="875"/>
+	<SubTexture name="seldown0010" x="1299" y="5" width="535" height="826" frameX="-71" frameY="-31" frameWidth="678" frameHeight="875"/>
+	<SubTexture name="seldown0011" x="1299" y="5" width="535" height="826" frameX="-71" frameY="-31" frameWidth="678" frameHeight="875"/>
+	<SubTexture name="seldown0012" x="1299" y="5" width="535" height="826" frameX="-71" frameY="-31" frameWidth="678" frameHeight="875"/>
+	<SubTexture name="seldown0013" x="1299" y="5" width="535" height="826" frameX="-71" frameY="-31" frameWidth="678" frameHeight="875"/>
+	<SubTexture name="selfukyu0000" x="1839" y="5" width="562" height="863"/>
+	<SubTexture name="selfukyu0001" x="1839" y="5" width="562" height="863"/>
+	<SubTexture name="selfukyu0002" x="2406" y="5" width="535" height="831" frameX="-13" frameY="-13" frameWidth="562" frameHeight="863"/>
+	<SubTexture name="selfukyu0003" x="2406" y="5" width="535" height="831" frameX="-13" frameY="-13" frameWidth="562" frameHeight="863"/>
+	<SubTexture name="selfukyu0004" x="2406" y="5" width="535" height="831" frameX="-13" frameY="-13" frameWidth="562" frameHeight="863"/>
+	<SubTexture name="selfukyu0005" x="2406" y="5" width="535" height="831" frameX="-13" frameY="-13" frameWidth="562" frameHeight="863"/>
+	<SubTexture name="selfukyu0006" x="2406" y="5" width="535" height="831" frameX="-13" frameY="-13" frameWidth="562" frameHeight="863"/>
+	<SubTexture name="selfukyu0007" x="2406" y="5" width="535" height="831" frameX="-13" frameY="-13" frameWidth="562" frameHeight="863"/>
+	<SubTexture name="selfukyu0008" x="2406" y="5" width="535" height="831" frameX="-13" frameY="-13" frameWidth="562" frameHeight="863"/>
+	<SubTexture name="selfukyu0009" x="2406" y="5" width="535" height="831" frameX="-13" frameY="-13" frameWidth="562" frameHeight="863"/>
+	<SubTexture name="selfukyu0010" x="2406" y="5" width="535" height="831" frameX="-13" frameY="-13" frameWidth="562" frameHeight="863"/>
+	<SubTexture name="selfukyu0011" x="2406" y="5" width="535" height="831" frameX="-13" frameY="-13" frameWidth="562" frameHeight="863"/>
+	<SubTexture name="selfukyu0012" x="2406" y="5" width="535" height="831" frameX="-13" frameY="-13" frameWidth="562" frameHeight="863"/>
+	<SubTexture name="selfukyu0013" x="2406" y="5" width="535" height="831" frameX="-13" frameY="-13" frameWidth="562" frameHeight="863"/>
+	<SubTexture name="selidle0000" x="2946" y="5" width="535" height="826" frameX="-108" frameY="-82" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0001" x="2946" y="5" width="535" height="826" frameX="-108" frameY="-82" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0002" x="3486" y="5" width="602" height="855" frameX="-67" frameY="-68" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0003" x="3486" y="5" width="602" height="855" frameX="-67" frameY="-68" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0004" x="5" y="885" width="646" height="881" frameX="-48" frameY="-55" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0005" x="5" y="885" width="646" height="881" frameX="-48" frameY="-55" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0006" x="656" y="885" width="701" height="904" frameX="-17" frameY="-44" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0007" x="656" y="885" width="701" height="904" frameX="-17" frameY="-44" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0008" x="1362" y="885" width="609" height="872" frameX="-70" frameY="-61" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0009" x="1362" y="885" width="609" height="872" frameX="-70" frameY="-61" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0010" x="1976" y="885" width="667" height="905" frameX="-54" frameY="-35" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0011" x="1976" y="885" width="667" height="905" frameX="-54" frameY="-35" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0012" x="2648" y="885" width="800" height="951"/>
+	<SubTexture name="selidle0013" x="2648" y="885" width="800" height="951"/>
+	<SubTexture name="selidle0014" x="5" y="1841" width="714" height="913" frameX="-35" frameY="-25" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0015" x="5" y="1841" width="714" height="913" frameX="-35" frameY="-25" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0016" x="724" y="1841" width="624" height="871" frameX="-72" frameY="-53" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0017" x="724" y="1841" width="624" height="871" frameX="-72" frameY="-53" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selidle0018" x="2946" y="5" width="535" height="826" frameX="-108" frameY="-82" frameWidth="800" frameHeight="951"/>
+	<SubTexture name="selleft0000" x="1353" y="1841" width="734" height="883"/>
+	<SubTexture name="selleft0001" x="1353" y="1841" width="734" height="883"/>
+	<SubTexture name="selleft0002" x="2092" y="1841" width="636" height="857" frameX="-42" frameY="-12" frameWidth="734" frameHeight="883"/>
+	<SubTexture name="selleft0003" x="2092" y="1841" width="636" height="857" frameX="-42" frameY="-12" frameWidth="734" frameHeight="883"/>
+	<SubTexture name="selleft0004" x="2733" y="1841" width="546" height="833" frameX="-78" frameY="-22" frameWidth="734" frameHeight="883"/>
+	<SubTexture name="selleft0005" x="2733" y="1841" width="546" height="833" frameX="-78" frameY="-22" frameWidth="734" frameHeight="883"/>
+	<SubTexture name="selleft0006" x="2733" y="1841" width="546" height="833" frameX="-78" frameY="-22" frameWidth="734" frameHeight="883"/>
+	<SubTexture name="selleft0007" x="2733" y="1841" width="546" height="833" frameX="-78" frameY="-22" frameWidth="734" frameHeight="883"/>
+	<SubTexture name="selleft0008" x="2733" y="1841" width="546" height="833" frameX="-78" frameY="-22" frameWidth="734" frameHeight="883"/>
+	<SubTexture name="selleft0009" x="2733" y="1841" width="546" height="833" frameX="-78" frameY="-22" frameWidth="734" frameHeight="883"/>
+	<SubTexture name="selleft0010" x="2733" y="1841" width="546" height="833" frameX="-78" frameY="-22" frameWidth="734" frameHeight="883"/>
+	<SubTexture name="selleft0011" x="2733" y="1841" width="546" height="833" frameX="-78" frameY="-22" frameWidth="734" frameHeight="883"/>
+	<SubTexture name="selleft0012" x="2733" y="1841" width="546" height="833" frameX="-78" frameY="-22" frameWidth="734" frameHeight="883"/>
+	<SubTexture name="selleft0013" x="2733" y="1841" width="546" height="833" frameX="-78" frameY="-22" frameWidth="734" frameHeight="883"/>
+	<SubTexture name="selright0000" x="3284" y="1841" width="728" height="935"/>
+	<SubTexture name="selright0001" x="3284" y="1841" width="728" height="935"/>
+	<SubTexture name="selright0002" x="5" y="2781" width="637" height="888" frameX="-49" frameY="-27" frameWidth="728" frameHeight="935"/>
+	<SubTexture name="selright0003" x="5" y="2781" width="637" height="888" frameX="-49" frameY="-27" frameWidth="728" frameHeight="935"/>
+	<SubTexture name="selright0004" x="647" y="2781" width="535" height="826" frameX="-103" frameY="-61" frameWidth="728" frameHeight="935"/>
+	<SubTexture name="selright0005" x="647" y="2781" width="535" height="826" frameX="-103" frameY="-61" frameWidth="728" frameHeight="935"/>
+	<SubTexture name="selright0006" x="647" y="2781" width="535" height="826" frameX="-103" frameY="-61" frameWidth="728" frameHeight="935"/>
+	<SubTexture name="selright0007" x="647" y="2781" width="535" height="826" frameX="-103" frameY="-61" frameWidth="728" frameHeight="935"/>
+	<SubTexture name="selright0008" x="647" y="2781" width="535" height="826" frameX="-103" frameY="-61" frameWidth="728" frameHeight="935"/>
+	<SubTexture name="selright0009" x="647" y="2781" width="535" height="826" frameX="-103" frameY="-61" frameWidth="728" frameHeight="935"/>
+	<SubTexture name="selright0010" x="647" y="2781" width="535" height="826" frameX="-103" frameY="-61" frameWidth="728" frameHeight="935"/>
+	<SubTexture name="selright0011" x="647" y="2781" width="535" height="826" frameX="-103" frameY="-61" frameWidth="728" frameHeight="935"/>
+	<SubTexture name="selright0012" x="647" y="2781" width="535" height="826" frameX="-103" frameY="-61" frameWidth="728" frameHeight="935"/>
+	<SubTexture name="selright0013" x="647" y="2781" width="535" height="826" frameX="-103" frameY="-61" frameWidth="728" frameHeight="935"/>
+	<SubTexture name="selup0000" x="1187" y="2781" width="799" height="893"/>
+	<SubTexture name="selup0001" x="1187" y="2781" width="799" height="893"/>
+	<SubTexture name="selup0002" x="1991" y="2781" width="715" height="873" frameX="-36" frameY="-10" frameWidth="799" frameHeight="893"/>
+	<SubTexture name="selup0003" x="1991" y="2781" width="715" height="873" frameX="-36" frameY="-10" frameWidth="799" frameHeight="893"/>
+	<SubTexture name="selup0004" x="2711" y="2781" width="631" height="826" frameX="-71" frameY="-33" frameWidth="799" frameHeight="893"/>
+	<SubTexture name="selup0005" x="2711" y="2781" width="631" height="826" frameX="-71" frameY="-33" frameWidth="799" frameHeight="893"/>
+	<SubTexture name="selup0006" x="2711" y="2781" width="631" height="826" frameX="-71" frameY="-33" frameWidth="799" frameHeight="893"/>
+	<SubTexture name="selup0007" x="2711" y="2781" width="631" height="826" frameX="-71" frameY="-33" frameWidth="799" frameHeight="893"/>
+	<SubTexture name="selup0008" x="2711" y="2781" width="631" height="826" frameX="-71" frameY="-33" frameWidth="799" frameHeight="893"/>
+	<SubTexture name="selup0009" x="2711" y="2781" width="631" height="826" frameX="-71" frameY="-33" frameWidth="799" frameHeight="893"/>
+	<SubTexture name="selup0010" x="2711" y="2781" width="631" height="826" frameX="-71" frameY="-33" frameWidth="799" frameHeight="893"/>
+	<SubTexture name="selup0011" x="2711" y="2781" width="631" height="826" frameX="-71" frameY="-33" frameWidth="799" frameHeight="893"/>
+	<SubTexture name="selup0012" x="2711" y="2781" width="631" height="826" frameX="-71" frameY="-33" frameWidth="799" frameHeight="893"/>
+	<SubTexture name="selup0013" x="2711" y="2781" width="631" height="826" frameX="-71" frameY="-33" frameWidth="799" frameHeight="893"/>
+</TextureAtlas>

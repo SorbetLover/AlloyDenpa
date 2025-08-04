@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "gb/icon-ruvina",
+	"difficulties": [
+		"hard"
+	],
+	"customValues": {},
+	"color": -8487298,
+	"name": "koroleva",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "koroleva",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 132
+}

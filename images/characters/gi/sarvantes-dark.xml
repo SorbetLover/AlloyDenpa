@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sarvantes nomal dark.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DSar Down0000" x="5" y="5" width="828" height="1019"/>
+	<SubTexture name="DSar Down0001" x="5" y="5" width="828" height="1019"/>
+	<SubTexture name="DSar Down0002" x="838" y="5" width="818" height="1019" frameX="0" frameY="0" frameWidth="828" frameHeight="1019"/>
+	<SubTexture name="DSar Down0003" x="838" y="5" width="818" height="1019" frameX="0" frameY="0" frameWidth="828" frameHeight="1019"/>
+	<SubTexture name="DSar Down0004" x="1661" y="5" width="766" height="960" frameX="-30" frameY="-31" frameWidth="828" frameHeight="1019"/>
+	<SubTexture name="DSar Down0005" x="1661" y="5" width="766" height="960" frameX="-30" frameY="-31" frameWidth="828" frameHeight="1019"/>
+	<SubTexture name="DSar Down0006" x="1661" y="5" width="766" height="960" frameX="-30" frameY="-31" frameWidth="828" frameHeight="1019"/>
+	<SubTexture name="DSar Down0007" x="1661" y="5" width="766" height="960" frameX="-30" frameY="-31" frameWidth="828" frameHeight="1019"/>
+	<SubTexture name="DSar Down0008" x="1661" y="5" width="766" height="960" frameX="-30" frameY="-31" frameWidth="828" frameHeight="1019"/>
+	<SubTexture name="DSar Down0009" x="1661" y="5" width="766" height="960" frameX="-30" frameY="-31" frameWidth="828" frameHeight="1019"/>
+	<SubTexture name="DSar Down0010" x="1661" y="5" width="766" height="960" frameX="-30" frameY="-31" frameWidth="828" frameHeight="1019"/>
+	<SubTexture name="DSar Down0011" x="1661" y="5" width="766" height="960" frameX="-30" frameY="-31" frameWidth="828" frameHeight="1019"/>
+	<SubTexture name="DSar Down0012" x="1661" y="5" width="766" height="960" frameX="-30" frameY="-31" frameWidth="828" frameHeight="1019"/>
+	<SubTexture name="DSar Down0013" x="1661" y="5" width="766" height="960" frameX="-30" frameY="-31" frameWidth="828" frameHeight="1019"/>
+	<SubTexture name="DSar Left0000" x="2432" y="5" width="645" height="1013"/>
+	<SubTexture name="DSar Left0001" x="2432" y="5" width="645" height="1013"/>
+	<SubTexture name="DSar Left0002" x="3082" y="5" width="632" height="995" frameX="-6" frameY="-10" frameWidth="645" frameHeight="1013"/>
+	<SubTexture name="DSar Left0003" x="3082" y="5" width="632" height="995" frameX="-6" frameY="-10" frameWidth="645" frameHeight="1013"/>
+	<SubTexture name="DSar Left0004" x="5" y="1029" width="617" height="961" frameX="-7" frameY="-26" frameWidth="645" frameHeight="1013"/>
+	<SubTexture name="DSar Left0005" x="5" y="1029" width="617" height="961" frameX="-7" frameY="-26" frameWidth="645" frameHeight="1013"/>
+	<SubTexture name="DSar Left0006" x="5" y="1029" width="617" height="961" frameX="-7" frameY="-26" frameWidth="645" frameHeight="1013"/>
+	<SubTexture name="DSar Left0007" x="5" y="1029" width="617" height="961" frameX="-7" frameY="-26" frameWidth="645" frameHeight="1013"/>
+	<SubTexture name="DSar Left0008" x="5" y="1029" width="617" height="961" frameX="-7" frameY="-26" frameWidth="645" frameHeight="1013"/>
+	<SubTexture name="DSar Left0009" x="5" y="1029" width="617" height="961" frameX="-7" frameY="-26" frameWidth="645" frameHeight="1013"/>
+	<SubTexture name="DSar Left0010" x="5" y="1029" width="617" height="961" frameX="-7" frameY="-26" frameWidth="645" frameHeight="1013"/>
+	<SubTexture name="DSar Left0011" x="5" y="1029" width="617" height="961" frameX="-7" frameY="-26" frameWidth="645" frameHeight="1013"/>
+	<SubTexture name="DSar Left0012" x="5" y="1029" width="617" height="961" frameX="-7" frameY="-26" frameWidth="645" frameHeight="1013"/>
+	<SubTexture name="DSar Left0013" x="5" y="1029" width="617" height="961" frameX="-7" frameY="-26" frameWidth="645" frameHeight="1013"/>
+	<SubTexture name="DSar UP0000" x="627" y="1029" width="650" height="967"/>
+	<SubTexture name="DSar UP0001" x="627" y="1029" width="650" height="967"/>
+	<SubTexture name="DSar UP0002" x="1282" y="1029" width="615" height="956" frameX="-19" frameY="-4" frameWidth="650" frameHeight="967"/>
+	<SubTexture name="DSar UP0003" x="1282" y="1029" width="615" height="956" frameX="-19" frameY="-4" frameWidth="650" frameHeight="967"/>
+	<SubTexture name="DSar UP0004" x="1282" y="1029" width="615" height="956" frameX="-19" frameY="-4" frameWidth="650" frameHeight="967"/>
+	<SubTexture name="DSar UP0005" x="1282" y="1029" width="615" height="956" frameX="-19" frameY="-4" frameWidth="650" frameHeight="967"/>
+	<SubTexture name="DSar UP0006" x="1282" y="1029" width="615" height="956" frameX="-19" frameY="-4" frameWidth="650" frameHeight="967"/>
+	<SubTexture name="DSar UP0007" x="1282" y="1029" width="615" height="956" frameX="-19" frameY="-4" frameWidth="650" frameHeight="967"/>
+	<SubTexture name="DSar UP0008" x="1282" y="1029" width="615" height="956" frameX="-19" frameY="-4" frameWidth="650" frameHeight="967"/>
+	<SubTexture name="DSar UP0009" x="1282" y="1029" width="615" height="956" frameX="-19" frameY="-4" frameWidth="650" frameHeight="967"/>
+	<SubTexture name="DSar UP0010" x="1282" y="1029" width="615" height="956" frameX="-19" frameY="-4" frameWidth="650" frameHeight="967"/>
+	<SubTexture name="DSar UP0011" x="1282" y="1029" width="615" height="956" frameX="-19" frameY="-4" frameWidth="650" frameHeight="967"/>
+	<SubTexture name="DSar UP0012" x="1282" y="1029" width="615" height="956" frameX="-19" frameY="-4" frameWidth="650" frameHeight="967"/>
+	<SubTexture name="DSar UP0013" x="1282" y="1029" width="615" height="956" frameX="-19" frameY="-4" frameWidth="650" frameHeight="967"/>
+	<SubTexture name="DSar idole0000" x="1902" y="1029" width="612" height="981"/>
+	<SubTexture name="DSar idole0001" x="1902" y="1029" width="612" height="981"/>
+	<SubTexture name="DSar idole0002" x="2519" y="1029" width="588" height="968" frameX="-15" frameY="-7" frameWidth="612" frameHeight="981"/>
+	<SubTexture name="DSar idole0003" x="2519" y="1029" width="588" height="968" frameX="-15" frameY="-7" frameWidth="612" frameHeight="981"/>
+	<SubTexture name="DSar idole0004" x="3112" y="1029" width="552" height="953" frameX="-37" frameY="-15" frameWidth="612" frameHeight="981"/>
+	<SubTexture name="DSar idole0005" x="3112" y="1029" width="552" height="953" frameX="-37" frameY="-15" frameWidth="612" frameHeight="981"/>
+	<SubTexture name="DSar idole0006" x="5" y="2015" width="521" height="937" frameX="-55" frameY="-23" frameWidth="612" frameHeight="981"/>
+	<SubTexture name="DSar idole0007" x="531" y="2015" width="521" height="937" frameX="-55" frameY="-23" frameWidth="612" frameHeight="981"/>
+	<SubTexture name="DSar idole0008" x="1057" y="2015" width="489" height="920" frameX="-74" frameY="-31" frameWidth="612" frameHeight="981"/>
+	<SubTexture name="DSar idole0009" x="1057" y="2015" width="489" height="920" frameX="-74" frameY="-31" frameWidth="612" frameHeight="981"/>
+	<SubTexture name="DSar idole0010" x="1057" y="2015" width="489" height="920" frameX="-74" frameY="-31" frameWidth="612" frameHeight="981"/>
+	<SubTexture name="DSar idole0011" x="1057" y="2015" width="489" height="920" frameX="-74" frameY="-31" frameWidth="612" frameHeight="981"/>
+	<SubTexture name="DSar idole0012" x="1057" y="2015" width="489" height="920" frameX="-74" frameY="-31" frameWidth="612" frameHeight="981"/>
+	<SubTexture name="DSar idole0013" x="1057" y="2015" width="489" height="920" frameX="-74" frameY="-31" frameWidth="612" frameHeight="981"/>
+	<SubTexture name="DSar right0000" x="1551" y="2015" width="665" height="957"/>
+	<SubTexture name="DSar right0001" x="2221" y="2015" width="665" height="942" frameX="0" frameY="-13" frameWidth="665" frameHeight="957"/>
+	<SubTexture name="DSar right0002" x="2891" y="2015" width="665" height="942" frameX="0" frameY="-13" frameWidth="665" frameHeight="957"/>
+	<SubTexture name="DSar right0003" x="5" y="2977" width="605" height="920" frameX="-31" frameY="-25" frameWidth="665" frameHeight="957"/>
+	<SubTexture name="DSar right0004" x="5" y="2977" width="605" height="920" frameX="-31" frameY="-25" frameWidth="665" frameHeight="957"/>
+	<SubTexture name="DSar right0005" x="5" y="2977" width="605" height="920" frameX="-31" frameY="-25" frameWidth="665" frameHeight="957"/>
+	<SubTexture name="DSar right0006" x="5" y="2977" width="605" height="920" frameX="-31" frameY="-25" frameWidth="665" frameHeight="957"/>
+	<SubTexture name="DSar right0007" x="5" y="2977" width="605" height="920" frameX="-31" frameY="-25" frameWidth="665" frameHeight="957"/>
+	<SubTexture name="DSar right0008" x="5" y="2977" width="605" height="920" frameX="-31" frameY="-25" frameWidth="665" frameHeight="957"/>
+	<SubTexture name="DSar right0009" x="5" y="2977" width="605" height="920" frameX="-31" frameY="-25" frameWidth="665" frameHeight="957"/>
+	<SubTexture name="DSar right0010" x="5" y="2977" width="605" height="920" frameX="-31" frameY="-25" frameWidth="665" frameHeight="957"/>
+	<SubTexture name="DSar right0011" x="5" y="2977" width="605" height="920" frameX="-31" frameY="-25" frameWidth="665" frameHeight="957"/>
+	<SubTexture name="DSar right0012" x="5" y="2977" width="605" height="920" frameX="-31" frameY="-25" frameWidth="665" frameHeight="957"/>
+	<SubTexture name="DSar right0013" x="5" y="2977" width="605" height="920" frameX="-31" frameY="-25" frameWidth="665" frameHeight="957"/>
+</TextureAtlas>

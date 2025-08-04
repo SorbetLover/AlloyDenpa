@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" name="stage" folder="stages/MFM/" startCamPosY="600" startCamPosX="1000">
+	<girlfriend/>
+
+	<sprite name="bg"           scale="1.5"    x="-500" y="-450"   sprite="churchohgod"       scroll="1" />
+	<dad x="-200"/>
+	<boyfriend x="700"/>
+</stage>

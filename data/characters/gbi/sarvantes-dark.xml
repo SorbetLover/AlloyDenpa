@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="gi/sarvantes-dark" icon="gbi/sarv" color="#D97EFF">
+	<anim name="idle" anim="DSar idole"/>
+	<anim name="singDOWN" anim="DSar Down" x="129" y="54"/>
+	<anim name="singRIGHT" anim="DSar right" x="33" y="-3"/>
+	<anim name="singLEFT" anim="DSar Left" x="15" y="6"/>
+	<anim name="singUP" anim="DSar UP" x="17" y="-21"/>
+</character>

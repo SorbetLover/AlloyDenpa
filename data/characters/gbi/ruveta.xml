@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="gi/ruveta" icon="gbi/ru" color="#9CAFFF">
+	<anim name="idle" anim="Ruv idle"/>
+	<anim name="singDOWN" anim="Ruv Down" x="43" y="17"/>
+	<anim name="singRIGHT" anim="Ruv Right" x="6" y="3"/>
+	<anim name="singLEFT" anim="Ruv Left"/>
+	<anim name="singUP" anim="Ruv UP" x="9" y="13"/>
+</character>
