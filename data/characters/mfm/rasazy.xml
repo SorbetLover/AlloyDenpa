@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="mfm/rasa" scale="0.4" icon="mfm/rasazy" color="#C5C5C5">
+	<anim name="idle" anim="rasa idle0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singUP" anim="rasa up0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="rasa left0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="rasa right0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="rasa down0" x="0" y="0" fps="24" loop="false"/>
+</character>

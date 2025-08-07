@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 128,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -6182657,
+	"displayName": "vovzrat",
+	"icon": "gbi/raz",
+	"name": "vovzrat-alt",
+	"color": "#A1A8FF",
+	"customValues": {}
+}

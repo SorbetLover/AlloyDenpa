@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SARV.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Parish0000" x="0" y="0" width="1008" height="1112"/>
+	<SubTexture name="Parish0001" x="0" y="0" width="1008" height="1112"/>
+	<SubTexture name="Parish0002" x="1008" y="0" width="1008" height="1097" frameX="0" frameY="-8" frameWidth="1008" frameHeight="1112"/>
+	<SubTexture name="Parish0003" x="1008" y="0" width="1008" height="1097" frameX="0" frameY="-8" frameWidth="1008" frameHeight="1112"/>
+	<SubTexture name="Parish0004" x="2016" y="0" width="1008" height="1082" frameX="0" frameY="-16" frameWidth="1008" frameHeight="1112"/>
+	<SubTexture name="Parish0005" x="2016" y="0" width="1008" height="1082" frameX="0" frameY="-16" frameWidth="1008" frameHeight="1112"/>
+	<SubTexture name="Parish0006" x="1008" y="0" width="1008" height="1097" frameX="0" frameY="-8" frameWidth="1008" frameHeight="1112"/>
+	<SubTexture name="Parish0007" x="1008" y="0" width="1008" height="1097" frameX="0" frameY="-8" frameWidth="1008" frameHeight="1112"/>
+	<SubTexture name="Parish0008" x="0" y="0" width="1008" height="1112"/>
+	<SubTexture name="Parish0009" x="0" y="0" width="1008" height="1112"/>
+</TextureAtlas>

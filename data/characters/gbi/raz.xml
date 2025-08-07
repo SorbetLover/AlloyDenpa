@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="gi/Razzie2" icon="gbi/raz" color="#7EADFF">
+	<anim name="idle" anim="idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Rdown0" x="-5" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Rleft0" x="95" y="10" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Rright0" x="64" y="43" fps="24" loop="false"/>
+	<anim name="singUP" anim="Rup0" x="45" y="20" fps="24" loop="false"/>
+</character>

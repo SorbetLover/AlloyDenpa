@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/raz/" zoom="0.8">
+	<gf/>
+	<sprite x="-596" y="-380" sprite="rasazybg" name="rasazybg"/>
+	<sprite x="-596" y="532" sprite="rasazyfront" name="rasazyfront"/>
+	<dad lastOpponent="dad" x="-600" y="-200"/>
+	<bf lastPlayer="bf"/>
+	<combo/>
+</stage>

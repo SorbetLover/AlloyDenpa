@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 150,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": false,
+	"parsedColor": -5921625,
+	"displayName": "bossanova",
+	"icon": "mfm/rasazy",
+	"name": "bossanova",
+	"color": "#A5A4A7",
+	"customValues": {}
+}

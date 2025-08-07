@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="mfm/raz" icon="mfm/raz" color="#9F9B9B" scale="0.5">
+	<anim name="idle" anim="rasazyV3 idle0" x="0" y="0" fps="12" loop="false"/>
+	<anim name="singDOWN" anim="rasazyV3 down0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="rasazyV3 left0" x="-50" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="rasazyV3 right0" x="-25" y="-20" fps="24" loop="false"/>
+	<anim name="singUP" anim="rasazyV3 up0" x="0" y="0" fps="24" loop="false"/>
+</character>

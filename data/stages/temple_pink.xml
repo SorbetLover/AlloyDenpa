@@ -1,16 +1,8 @@
-<<<<<<< HEAD
 <!DOCTYPE codename-engine-stage>
-=======
-<!-- <!DOCTYPE codename-engine-stage>
->>>>>>> 8572ea63d3091c03a3863d2296c72ad0f3802092
 <stage zoom="0.7" name="stage" folder="stages/MFM/" startCamPosY="600" startCamPosX="1000">
 	<girlfriend/>
 
 	<sprite name="bg"           scale="1.5"    x="-500" y="-450"   sprite="church"       scroll="1" />
 	<dad x="-200"/>
 	<boyfriend x="700"/>
-<<<<<<< HEAD
 </stage>
-=======
-</stage> -->
->>>>>>> 8572ea63d3091c03a3863d2296c72ad0f3802092

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rasa.png"><SubTexture name="rasa idle0000" x="719" y="0" width="974" height="1681" frameX="-50" frameY="-211" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa idle0001" x="2690" y="3223" width="974" height="1492" frameX="-50" frameY="-229" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa idle0002" x="3664" y="3223" width="974" height="1492" frameX="-50" frameY="-229" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa idle0003" x="1716" y="3223" width="974" height="1493" frameX="-50" frameY="-227" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa idle0004" x="2959" y="1691" width="974" height="1510" frameX="-50" frameY="-211" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa idle0005" x="1985" y="1691" width="974" height="1511" frameX="-50" frameY="-211" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa up0000" x="0" y="0" width="719" height="1691" frameX="-205" frameY="-39" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa up0001" x="1693" y="0" width="723" height="1576" frameX="-207" frameY="-155" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa up0002" x="2416" y="0" width="719" height="1569" frameX="-205" frameY="-157" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa left0000" x="4155" y="0" width="902" height="1505" frameX="-3" frameY="-227" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa left0001" x="4155" y="1505" width="895" height="1505" frameX="-14" frameY="-229" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa left0002" x="0" y="3223" width="920" height="1505" frameX="-38" frameY="-229" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa right0000" x="3135" y="0" width="1020" height="1539" frameX="-58" frameY="-189" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa right0001" x="0" y="1691" width="995" height="1532" frameX="-53" frameY="-194" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa right0002" x="995" y="1691" width="990" height="1531" frameX="-61" frameY="-192" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa down0000" x="920" y="3223" width="796" height="1498" frameX="-196" frameY="-232" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa down0001" x="5057" y="0" width="779" height="1457" frameX="-201" frameY="-268" frameWidth="1080" frameHeight="1920" />
+<SubTexture name="rasa down0002" x="5057" y="1457" width="764" height="1423" frameX="-209" frameY="-295" frameWidth="1080" frameHeight="1920" />
+</TextureAtlas>
