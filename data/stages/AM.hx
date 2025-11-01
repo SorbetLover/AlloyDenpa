@@ -48,5 +48,18 @@ function stepHit(){
 			}
 	}
 }
+function moveArrow(strum, notest, noteto, xtDD, ytDD, rotation, opacity, duration){
+		
+	
 
+	for(i in notest...noteto){
+		var strume = strumLines.members[strum].members[i];
+		FlxTween.tween(strume, {
+			x: strume.x + Std.parseInt(xtDD),
+			y: strume.y + Std.parseInt(ytDD),
+			angle: strume.angle + Std.parseInt(rotation),
+			alpha: strume.alpha + Std.parseInt(opacity)
+		}, Std.parseFloat(duration), {ease: FlxEase.quartInOut});
+	}
+}
 //finishing ts later

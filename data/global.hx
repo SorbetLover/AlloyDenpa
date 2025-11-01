@@ -7,7 +7,7 @@ import lime.graphics.Image;
 import funkin.backend.utils.WindowUtils;
 
 function postStateSwitch() {
-    if(FlxG.random.bool(50)){
+    if(FlxG.random.bool(2)){
         WindowUtils.winTitle = "Friday Night Funkin' - Denpa Engine";
     } else {
         WindowUtils.winTitle = "Friday Night Funkin' - Depia Enggin";
@@ -19,6 +19,11 @@ function destroy() {
     WindowUtils.resetTitle();
 }
 
+function update(){
+    if(FlxG.keys.justPressed.F4 && FlxG.keys.pressed.SHIFT){
+        FlxG.resetGame();
+    }
+}
 
 
 static var redirectStates:Map<FlxState, String> = [

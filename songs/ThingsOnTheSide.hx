@@ -18,7 +18,7 @@ var misses:Int = 0;
 
 // perfect and wtf doesnt exist here :(
 function onPlayerHit(event){
-    trace(event.rating);
+    // trace(event.rating);
     switch(event.rating){
         case "perfect":
         perfects += 1;
