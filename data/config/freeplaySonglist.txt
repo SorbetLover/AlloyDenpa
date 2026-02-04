@@ -1,5 +1,6 @@
 tutorial
 test
+damage
 >>| MFM GB |<<
 praise
 devotion

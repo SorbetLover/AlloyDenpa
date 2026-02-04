@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="150" y="360" sprite="monosadsenpai" scale="6" antialiasing="false" camx="100" camy="87" icon="monosenpai" color="#FFAA6F" interval="2">
+	<anim name="danceLeft" anim="Senpai Idle instance 1" indices="0..13"/>
+	<anim name="danceRight" anim="Senpai Idle instance 1" indices="13..31"/>
+	<anim name="singLEFT" anim="SENPAI LEFT NOTE" x="4"/>
+	<anim name="singDOWN" anim="SENPAI DOWN NOTE"/>
+	<anim name="singUP" anim="SENPAI UP NOTE" y="6"/>
+	<anim name="singRIGHT" anim="SENPAI RIGHT NOTE"/>
+</character>
