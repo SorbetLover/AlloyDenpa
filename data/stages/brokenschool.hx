@@ -54,7 +54,12 @@ function create(){
         insert(100, i);
     }
 
-    
+    if(Options.gameplayShaders == true){
+        importScript("data/scripts/rain-effect");
+        rainShaderEndIntensity = 0.1;
+        rainShaderStartIntensity = 0.1;
+        rainShaderScale = 2;
+    }
 }
 
 function postCreate(){
@@ -70,14 +75,17 @@ function getShit(spr){
 }
 
 function stepHit(){
-    if(curStep == 540){
-        camHUD.angle = 240;
-        camGame.angle = 280;
-        FlxTween.tween(camHUD, {angle:360}, 1 * inst.pitch, {ease:FlxEase.cubeOut});
-        FlxTween.tween(camGame, {angle:360}, 1 * inst.pitch, {ease:FlxEase.cubeOut});
-        statics.alpha = 0.2;
-    }
-    if(curStep == 544){
-        statics.alpha = 0;
+    if(PlayState.instance.curSong == "damage"){
+
+        if(curStep == 540){
+            camHUD.angle = 240;
+            camGame.angle = 280;
+            FlxTween.tween(camHUD, {angle:360}, 1 * inst.pitch, {ease:FlxEase.cubeOut});
+            FlxTween.tween(camGame, {angle:360}, 1 * inst.pitch, {ease:FlxEase.cubeOut});
+            statics.alpha = 0.2;
+        }
+        if(curStep == 544){
+            statics.alpha = 0;
+        }
     }
 }

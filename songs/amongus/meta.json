@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#9271FD",
+	"opponentModeAllowed": false,
+	"icon": "face",
+	"difficulties": [
+		"amongus"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "amongus",
+	"beatsPerMeasure": 4,
+	"needsVoices": false,
+	"bpm": 125
+}
