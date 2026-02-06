@@ -54,6 +54,7 @@ function create(){
         insert(100, i);
     }
 
+    importScript("data/scripts/pixelmono");
     if(Options.gameplayShaders == true){
         importScript("data/scripts/rain-effect");
         rainShaderEndIntensity = 0.1;

@@ -5,7 +5,7 @@ import funkin.backend.scripting.events.NoteHitEvent;
 public var pixelNotesForBF = true;
 public var pixelNotesForDad = true;
 public var pixelSplashes = true;
-public var enablePixelUI = false;
+public var enablePixelUI = true;
 public var enablePixelGameOver = true;
 public var enableCameraHacks = false;
 public var enablePauseMenu = false;
@@ -64,7 +64,7 @@ function onStrumCreation(event) {
 function onCountdown(event) {
 	if (!enablePixelUI) return;
 
-	if (event.soundPath != null) event.soundPath = 'pixel/' + event.soundPath;
+	if (event.soundPath != null) event.soundPath = 'mono/' + event.soundPath;
 	event.antialiasing = false;
 	event.scale = daPixelZoom;
 	event.spritePath = switch(event.swagCounter) {
