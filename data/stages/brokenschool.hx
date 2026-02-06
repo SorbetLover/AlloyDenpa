@@ -90,3 +90,27 @@ function stepHit(){
         }
     }
 }
+var stopSong = false;
+function postUpdate(){
+    if(stopSong){
+        inst.volume = 0;
+        vocals.volume = 0;
+    }
+}
+var firsttime = true;
+function onSongEnd(e){
+    if(firsttime == true) e.cancel();
+    firsttime = false;
+    stopSong = true;
+    // new FlxTimer().start(0.01, function(m:FlxTimer){
+
+        camHUD.fade(0xFF000000, 2, false, function(){
+            camGame.fade(0xFF000000, 0.01, false);
+            camHUD.visible = false;
+            fadeRain = true;
+            new FlxTimer().start(3,function(e:FlxTimer){
+                endSong();      
+            });
+        });
+    // });
+}

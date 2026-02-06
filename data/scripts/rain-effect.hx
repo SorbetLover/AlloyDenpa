@@ -18,6 +18,9 @@ function getColorVec(color:Int):Array<Float> {
 }
 
 var rainSndAmbience:FlxSound;
+public var fadeRain = false;
+
+
 function create()
 {
 	if(!Options.gameplayShaders)
@@ -31,10 +34,12 @@ function create()
 	rainShader = new CustomShader('rainShaderSimple');
 	rainShader.uRainColor = getColorVec(rainColor);
 
+	rainSndAmbience = new FlxSound();
 	rainSndAmbience = FlxG.sound.load(Paths.sound("rainAmbience"), true, false, true);
 	rainSndAmbience.volume = 0.1;
 	rainSndAmbience.play(true, FlxG.random.float(0, rainSndAmbience.length));
 	rainSndAmbience.looped = true;
+	rainSndAmbience.ID = 999;
 
 	camGame.addShader(rainShader);
 	// puddleMap = Assets.getBitmapData(Paths.image("phillyStreets/puddle"));
@@ -65,9 +70,11 @@ function draw(_)
 }*/
 
 var time:Float = 0;
-
 function update(elapsed:Float)
 {
+	if(fadeRain == true){
+		rainSndAmbience.volume -= elapsed * 0.1;		
+	}
 	time += elapsed;
 
 	var length = inst != null ? inst.length : 0.0;

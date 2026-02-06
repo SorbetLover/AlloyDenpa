@@ -2,6 +2,7 @@ tutorial
 test
 medicine
 damage
+poems-n-thorns
 >>| MFM GB |<<
 praise
 devotion
